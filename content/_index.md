@@ -3,7 +3,7 @@ title: Archer Benthic Ecology Lab
 description: "Benthic ecology lab at LUMCON"
 ---
 
-{{< figure src="/images/z_IMG_9171.jpg" title="" width="1000">}}  
+{{< figure src="/images/z_IMG_9171.jpg" title="" width="1000" align="center>}}  
 
 Welcome to the Archer Benthic Ecology Lab at Louisiana Universities Marine Consortium [LUMCON](https://lumcon.edu "LUMCON") . We are a group of ecologists who spend our time exploring the fundamental principles that underpin the structure and function of biogenic habitats, or habitats formed by plants or animals. We use a combination of observational and experimental approaches to elucidate the role that habitat forming species play in maintaining biodiversity and ecosystem function in the Anthropocene.
 
