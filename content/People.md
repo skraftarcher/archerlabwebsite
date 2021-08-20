@@ -47,7 +47,7 @@ Bio coming soon.
 
 ### **Tam Ta, Undergraduate Researcher**  
 
-Bio coming soon
+{{<imagewithtext img="/images/PXL_20210815_180937220_2.jpg" width="300" text="Tam is currently an undergrad at the University of Washington majoring in Environmental Science and Medical Laboratory Science. She started at LUMCON as an REU Intern where she examined fish calling behaviors in glass sponge reef ecosystems. Going forward, she will be working on a passive acoustic research project looking at fish calling behaviors and biodiversity in glass sponge reefs. Tam is also working as a Student Assistant in the Quantitative Conservation Lab at the University of Washington. She is currently working through data entry and camera trap processing for seabird monitoring in the Channel Islands National Park. When she is not working, you can find her hiking, embroidering, and drinking bubble tea.">}}
 
 <br>
 <br>
