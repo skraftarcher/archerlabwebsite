@@ -9,13 +9,19 @@ title: "Our Research"
 
 Biogenic habitats, or habitats formed by living organisms, such as coral reefs, sponge grounds, and seagrass beds are among the most biodiverse ecosystems in the oceans. They provide us with many ecosystem services from food production and natural products chemistry to shoreline protection and storm buffering. They are also among the most impacted systems, suffering from a wide range of anthropogenic and natural stressors that combine to threaten their continued existence. Our lab is lucky enough to work in many such systems, including seagrass beds and Glass Sponge, coral, and oyster reefs.
 
+<br>
+<br>
+<br> 
+
 ## **Current Projects**  
 
 ### Oyster reef ecology  
 {{<imagewithtext img="/images/IMG_9281.jpg" width="300" text="The Gulf Coast is shaped by many iconic biogenic habitats, including oyster reefs. Unfortunately, throughout the Gulf of Mexico oyster reefs are declining. These declines are driven by many stressors, such as changes in salinity regimes, increasing temperatures, and direct human impacts such as dredging and construction. While the direct effects of some stressors are well-understood, ecosystems are rarely exposed to a single stressful condition at a time. Additionally, how things like increasing temperatures and decreasing salinities impact marine ecosystems often depends on many other factors, such as how hot it got last year, or how human activities have altered water quality. As we move further into the Anthropocene, and human influence on the environment increases, marine ecosystems are being exposed to suites of environmental conditions that they have never experienced before. As a result, our research on oyster reefs is focused on both identifying the causes and consequences of declines in oyster populations and building a better understanding of when, where, and why environmental conditions interact to impact oyster reefs in unexpected ways.">}}
 
 
-
+<br>
+<br>
+<br> 
 
 
 
@@ -25,7 +31,9 @@ Biogenic habitats, or habitats formed by living organisms, such as coral reefs, 
 
 
 
-
+<br>
+<br>
+<br> 
 
 
 
@@ -36,8 +44,9 @@ Biogenic habitats, or habitats formed by living organisms, such as coral reefs, 
 
   
   
-  
-  
+<br>
+<br>
+<br>  
   
   
   
