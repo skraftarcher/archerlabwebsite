@@ -1,0 +1,56 @@
+baseurl: https://archerbenthicecologylab.com/
+languageCode: en-us
+title: Archer Benthic Ecology Lab
+theme: hugo-lithium
+googleAnalytics: ''
+disqusShortname: ''
+relativeurl: TRUE
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+  - \.knit\.md$
+  - \.utf8\.md$
+permalinks:
+  post: /:year/:month/:day/:slug/
+  page: /:title/
+  
+menu:
+  main:
+    - name: People
+      url: /People/
+      weight: 2
+    - name: Lab Ethics
+      url: /LabEthics/
+      weight: 4
+    - name: Research
+      url: /Research/
+      weight: 1
+    - name: Publications
+      url: /Publications/
+      weight: 3
+    - name: Prospective Students
+      url: /ProspectiveStudents/
+      
+params:
+  MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
+  MathJaxVersion: 2.7.5
+  description: The Archer Benthic Ecology lab at LUMCON
+  favicon: favicon.ico
+  highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
+  highlightjsLang:
+    - r
+    - yaml
+  highlightjsTheme: github
+  highlightjsVersion: 9.12.0
+  logo:
+    alt: Logo
+    height: 50
+    url: IMG_0496.JPG
+    width: 50
+  customCSS: ["css/custom.css"]
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: yes
