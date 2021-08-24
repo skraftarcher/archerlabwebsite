@@ -63,5 +63,13 @@ Biogenic habitats, or habitats formed by living organisms, such as coral reefs, 
 
 ### Freshwater sponges of Louisiana
 
-{{<imagewithtext img="/images/IMG_8702.jpg" width="330" text="We work with Dr. Mary Miller and her students at Baton Rouge Community College to study the freshwater sponges of Louisiana. You can read more about this work [here](https://marymiller2.github.io/spongehunters//)">}}
+{{<imagewithtext img="/images/IMG_8702.jpg" width="330" text="We work with Dr. Mary Miller and her students at Baton Rouge Community College to study the freshwater sponges of Louisiana.">}} You can read more about this work [here](https://marymiller2.github.io/spongehunters// "la sponge hunters")
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 

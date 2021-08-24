@@ -4,7 +4,7 @@ description: "The people of the Archer Benthic Ecology Lab"
 header_image: '/banner_image2.jpg'
 ---
 
-{{<figure src="IMG_9809.jpg" width="1000" align="float: center">}}
+{{<figure src="/images/IMG_9809.jpg" width="1000" align="float: center">}}
 
 <br>
 
