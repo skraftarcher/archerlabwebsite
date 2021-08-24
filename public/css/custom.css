@@ -9,3 +9,21 @@ div#sectionleft {
 div#sectionright {
     margin: auto;
 }
+
+section {
+    margin: auto;
+    padding-top: 10px;
+}
+div#sectionright2 {
+    float: right;
+    margin-left: 10px;
+}
+div#sectionleft2 {
+    margin: auto;
+}
+
+.title{
+    margin: auto;
+    padding-top: 40px;
+    text-align: center;
+}

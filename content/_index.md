@@ -11,4 +11,4 @@ A key principle in our lab is that the findings of our research are applied. We 
 
 With these goals in mind, our research is focused in three broad areas: 1) **revealing the factors that maintain biodiversity and ecosystem function**, 2) **identifying drivers of decline in biogenic habitats**, and 3) **developing monitoring and restoration techniques for biogenic habitats.**
 
-{{< figure src="/images/IMG_9809.jpg" title="" >}} 
+{{< figure src="/images/d_IMG_8828.jpg" title="" width="1000" align="float: center">}} 
