@@ -42,9 +42,9 @@ Send as *a single PDF* to ewhitman@fiu.edu
     1) research experience/interests  
     2) ability to work in a diverse collaborative team  
     3) interest/experience as a leader, mentor, and/or teacher  
-    4) work ethic (applicant will be notified prior to any contact with references)  
+    4) work ethic 
     And  
-    5) the mentorship style you work best with  
+    5) the mentorship style you work best with (applicant will be notified prior to any contact with references)  
 
 **Applications will be considered beginning November 5, 2021 and will continue until the position is filled.**  
 

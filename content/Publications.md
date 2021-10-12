@@ -7,9 +7,11 @@ title: "Publications"
 
 `*` indicates an undergraduate coauthor  
 
-O’Regan, SM, SK Archer, SK Friesen, and KL Hunter. *In Press*. A global assessment of climate change robustness of Marine Protected Area management plans. Frontiers in Marine Science
+Archer, SK, PA English, FM Campanino, and CA Layman. *In Press*. Sponges facilitate primary producers in a seagrass ecosystem. Marine Biology  
 
-[Bates, AE, RB Primack, PAN-Environmental working group (including SK Archer) and CM Duarte. *In Press*. Global COVID-19 lockdown highlights humans as threats and custodians of the environment. Biological Conservation. DOI: 10.1016/j.biocon.2021.109175](https://www.sciencedirect.com/science/article/abs/pii/S0006320721002275)
+[O’Regan, SM, SK Archer, SK Friesen, and KL Hunter. 2021. A global assessment of climate change robustness of Marine Protected Area management plans. Frontiers in Marine Science 8:1155. DOI: 10.3389/fmars.2021.711085](https://www.frontiersin.org/articles/10.3389/fmars.2021.711085/full)
+
+[Bates, AE, RB Primack, PAN-Environmental working group (including SK Archer) and CM Duarte. 2021. Global COVID-19 lockdown highlights humans as threats and custodians of the environment. Biological Conservation. DOI: 10.1016/j.biocon.2021.109175](https://www.sciencedirect.com/science/article/abs/pii/S0006320721002275)
   
 [Archer, SK, AS Kahn, M Thiess, L Law, SP Leys, SC Johannessen, CA Layman, L Burke, and A Dunham.	2020. Foundation Species Abundance Influences Food Web Topology on Glass Sponge Reefs. Frontiers in	Marine Science 7:549478. DOI: 10.3389/fmars.2020.549478](https://www.frontiersin.org/articles/10.3389/fmars.2020.549478/full)   
 
