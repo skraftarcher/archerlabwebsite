@@ -32,6 +32,9 @@ menu:
     - name: Prospective Students
       url: /ProspectiveStudents/
       weight: 5
+    - name: Job Openings
+      url: /JobOpenings/
+      weight: 6
       
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
