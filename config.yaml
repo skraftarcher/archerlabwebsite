@@ -35,6 +35,9 @@ menu:
     - name: Job Openings
       url: /JobOpenings/
       weight: 6
+    - name: Internship Opportunities
+      url: /Internships/
+      weight: 7
       
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
