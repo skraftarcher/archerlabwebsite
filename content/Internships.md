@@ -18,3 +18,5 @@ Each summer [LUMCON](https://lumcon.edu/) hosts a cohort of undergraduate studen
 
 Watch this space for an announcement coming soon!
 
+{{<figure src="/images/LUMCON_fromwater.jpg" width="1000" align="float:center">}}
+
