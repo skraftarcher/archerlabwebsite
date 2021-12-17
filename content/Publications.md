@@ -7,7 +7,7 @@ title: "Publications"
 
 `*` indicates an undergraduate coauthor  
 
-Archer, SK, PA English, FM Campanino, and CA Layman. *In Press*. Sponges facilitate primary producers in a seagrass ecosystem. Marine Biology  
+[Archer, S. K., P. A. English, F. M. Campanino, and C. A. Layman. 2021. Sponges facilitate primary producers in a Bahamas seagrass system. Marine Biology 168:162. DOI: 10.1007/s00227-021-03977-x](https://link.springer.com/article/10.1007/s00227-021-03977-x)
 
 [O’Regan, SM, SK Archer, SK Friesen, and KL Hunter. 2021. A global assessment of climate change robustness of Marine Protected Area management plans. Frontiers in Marine Science 8:1155. DOI: 10.3389/fmars.2021.711085](https://www.frontiersin.org/articles/10.3389/fmars.2021.711085/full)
 
