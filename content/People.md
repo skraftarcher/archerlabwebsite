@@ -18,40 +18,38 @@ Email: sarcher at lumcon.edu
 [Research Gate](https://www.researchgate.net/profile/Stephanie_Archer3 "Research Gate")  
 
 <br>
-<br>
-<br>
-  
-### **Finella Campanino, Research Assistant**  
-{{<imagewithtextright img="/images/fia crab proj.jpg" width="330" text="Finella completed her undergraduate at the State University of New York College at Oneonta where she worked on several projects. She did field work on Andros Island, The Bahamas to collect a comprehensive population survey for the Bahamas National Trust to help develop a management plan for the National Park dedicated to conserving the giant land crab (Crab Replenishment Reserve). In addition to field work, she tested the effects of curcumin on respiration in yeast cells in my undergraduate’s biochemistry laboratory and performed a computational clustering analysis to view age cohorts of the larval form of a North American insect species within a stream. She moved to Louisiana and is now a Research Technician at LUMCON in the Archer Benthic Ecology Lab, primarily working on oyster reef community ecology and Louisiana sponges. In January 2022 she will be going to LSU to get her Masters working on oyster reefs. Outside of science, she loves to play volleyball, read, watch movies, and play board games with her friends!">}} 
+
+### **Finella Campanino, Graduate Student**  
+{{<imagewithtextright img="/images/fia crab proj.jpg" width="330" text="Finella completed her undergraduate at the State University of New York College at Oneonta where she worked on several projects. She did field work on Andros Island, The Bahamas to collect a comprehensive population survey for the Bahamas National Trust to help develop a management plan for the National Park dedicated to conserving the giant land crab (Crab Replenishment Reserve). In addition to field work, she tested the effects of curcumin on respiration in yeast cells in my undergraduate’s biochemistry laboratory and performed a computational clustering analysis to view age cohorts of the larval form of a North American insect species within a stream. She moved to Louisiana and is was a Research Technician at LUMCON in the Archer Benthic Ecology Lab, primarily working on oyster reef community ecology and Louisiana sponges. Finella is now co-advised by Drs. Archer and Megan La Peyre at LSU; she is getting her Masters working on biodiversity associated with oyster reefs. Outside of science, she loves to play volleyball, read, watch movies, and play board games with her friends!">}} 
 
 Email: fcampanino at lumcon.edu  
 Twitter: @Fin_ella1  
 
 <br>
-<br>
-<br>
 
-### **Ariel Alonso, Graduate Student Intern**  
+### **Ariel Alonso, Graduate Student**  
 
-{{<imagewithtext img="/images/ariel1.jpg" width="330"text="Ariel completed her undergraduate degree in Biological Science at University of New Orleans where she was a research assistant in Dr. Kelly Boyle’s lab. There she worked on effects of fish calling behavior caused from boat noise using recordings from Dauphin Island, Alabama. She also worked in Dr. Erin Cox’s lab and she did field work in Florida collecting seagrass. She is currently at Tulane University in the non-thesis masters program in the Ecology and Evolutionary Biology department with Dr. Hank Bart Jr. as her advisor. They have worked on 3D fish modeling from underwater videos using deep learning methods. Ariel is currently a Graduate Intern at LUMCON in the Archer Benthic Ecology Lab working on comparing fish calling behavior between sponge reefs and rocky reefs in the Salish Sea in Canada. Aside from school and science, she is involved in many volunteer positions through Ducks Unlimited. she is a chapter volunteer, Area Greenwing Chairman for our chapter and the chairman for the Greenwing Youth Organization in the state of Louisiana. She also loves to drink coffee, play with my animals, watch movies, hunt and fish and anything to do with the outdoors!">}} 
+{{<imagewithtext img="/images/ariel1.jpg" width="330"text="Ariel completed her undergraduate degree in Biological Science at University of New Orleans where she was a research assistant in Dr. Kelly Boyle’s lab. There she worked on effects of fish calling behavior caused from boat noise using recordings from Dauphin Island, Alabama. She also worked in Dr. Erin Cox’s lab and she did field work in Florida collecting seagrass. She recently finished a non-thesis masters programat Tulane University in the Ecology and Evolutionary Biology department with Dr. Hank Bart Jr. as her advisor. They worked on 3D fish modeling from underwater videos using deep learning methods. Ariel was also a Graduate Intern at LUMCON in the Archer Benthic Ecology Lab working on comparing fish calling behavior between sponge reefs and rocky reefs in the Salish Sea in Canada. Ariel is now a graduate student at University of New Orleans working with Drs. Archer and Kelly Boyle. Aside from school and science, she is involved in many volunteer positions through Ducks Unlimited. she is a chapter volunteer, Area Greenwing Chairman for our chapter and the chairman for the Greenwing Youth Organization in the state of Louisiana. She also loves to drink coffee, play with my animals, watch movies, hunt and fish and anything to do with the outdoors!">}} 
 
-Email: arielnalonso7 at gmail.com
-
-<br>
-<br>
+Email: arielnalonso7 at gmail.com 
+ 
 <br>
 
-### **Matthew Heyer, Undergraduate Researcher**  
+### **Abigial Host, Research Assistant**  
 
-Bio coming soon.  
+{{<imagewithtext img="/images/host_biophoto.JPG" width="330" text="Abigail completed her undergraduate degree in Biology at Boston College, with a minor in Environmental Studies. She first became interested in environmental field research and ocean conservation during a summer field ecology program at Pacuare Reserve in Costa Rica where she learned about the tropical rainforest and tracked nesting leatherback sea turtles. She is also passionate about environmental education, having worked as an Environmental Educator at a wetland preserve in Park City, UT and as an Environmental Education & Stewardship Field Intern on Oak Island in North Carolina. Abigail is currently a Research Technician at LUMCON in the Archer Benthic Ecology Lab where she will primarily assist on a project focused on developing new markets for invasive carp in Louisiana as she continues to gain research, work, and field experience. When she’s not working, you will most likely find Abigail outside, whether that be running, hiking, skiing, playing soccer, swimming, biking, or just enjoying nature. She enjoys drinking coffee, eating(!), listening to music, birding, playing with her dogs, exploring new and exciting places, and spending time with her family and friends.">}}
 
-<br>
-<br>
 <br>
 
 ### **Tam Ta, Undergraduate Researcher**  
 
 {{<imagewithtext img="/images/PXL_20210815_180937220_2.jpg" width="330" text="Tam is currently an undergrad at the University of Washington majoring in Environmental Science and Medical Laboratory Science. She started at LUMCON as an REU Intern where she examined fish calling behaviors in glass sponge reef ecosystems. Going forward, she will be working on a passive acoustic research project looking at fish calling behaviors and biodiversity in glass sponge reefs. Tam is also working as a Student Assistant in the Quantitative Conservation Lab at the University of Washington. She is currently working through data entry and camera trap processing for seabird monitoring in the Channel Islands National Park. When she is not working, you can find her hiking, embroidering, and drinking bubble tea.">}}
+
+<br>
+
+### **Matthew Heyer, Undergraduate Researcher**  
+
+Bio coming soon.  
 
 <br>
 <br>
