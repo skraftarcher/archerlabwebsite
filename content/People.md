@@ -46,14 +46,15 @@ Email: arielnalonso7 at gmail.com
 {{<imagewithtext img="/images/PXL_20210815_180937220_2.jpg" width="330" text="Tam is currently an undergrad at the University of Washington majoring in Environmental Science and Medical Laboratory Science. She started at LUMCON as an REU Intern where she examined fish calling behaviors in glass sponge reef ecosystems. Going forward, she will be working on a passive acoustic research project looking at fish calling behaviors and biodiversity in glass sponge reefs. Tam is also working as a Student Assistant in the Quantitative Conservation Lab at the University of Washington. She is currently working through data entry and camera trap processing for seabird monitoring in the Channel Islands National Park. When she is not working, you can find her hiking, embroidering, and drinking bubble tea.">}}
 
 <br>
+<br>
+<br>
+<br>
 
 ### **Matthew Heyer, Undergraduate Researcher**  
 
-{{<imagewithtext img="/images/Matthew_profile_pic.JPG" width="330" text="Matthew graduated with his Associate's Transfer Degree in Biological Studies as a Research Scholar with honors from BRCC in 2020. He is now continuing his studies at SELU and Majoring in Biochemistry with a focus in Microbiology/Mycology.He has worked with the LA Sponge Hunters for 3 years researching freshwater sponges in addition to acting as a research mentor for internship programs under Dr. Mary Miller. He has presented research findings on freshwater sponge identification at scientific conferences for the Association of Southeastern Biologists, LSU, and others over these past few years as he has helped to develop and improve freshwater sponge identification techniques for Scanning Electron Microscopy (SEM). After finishing his undergraduate studies he plans on acquiring a thesis-based Master's/PhD if accepted at University Madison-Wisconsin's graduate program. Presently, he is planning on attending an ecological survey this summer in Costa Rica under SELU's study abroad program, and is an active member in school organizations for undergrad biology students such as BUGS and involves himself in community projects like the Pearl River Clean Sweep. Outside of school/work he loves to watch and review films, kayaking, film photography, making music, and running tabletop roleplaying games.">}}  
+{{<imagewithtextright img="/images/Matthew_profile_pic.JPG" width="330" text="Matthew graduated with his Associate's Transfer Degree in Biological Studies as a Research Scholar with honors from BRCC in 2020. He is now continuing his studies at SELU and Majoring in Biochemistry with a focus in Microbiology/Mycology.He has worked with the LA Sponge Hunters for 3 years researching freshwater sponges in addition to acting as a research mentor for internship programs under Dr. Mary Miller. He has presented research findings on freshwater sponge identification at scientific conferences for the Association of Southeastern Biologists, LSU, and others over these past few years as he has helped to develop and improve freshwater sponge identification techniques for Scanning Electron Microscopy (SEM). After finishing his undergraduate studies he plans on acquiring a thesis-based Master's/PhD if accepted at University Madison-Wisconsin's graduate program. Presently, he is planning on attending an ecological survey this summer in Costa Rica under SELU's study abroad program, and is an active member in school organizations for undergrad biology students such as BUGS and involves himself in community projects like the Pearl River Clean Sweep. Outside of school/work he loves to watch and review films, kayaking, film photography, making music, and running tabletop roleplaying games.">}}  
 
-<br>
-<br>
-<br>
+
 <br>
 <br>
 <br>
