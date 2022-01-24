@@ -67,4 +67,28 @@ Although we're sad not to work with them every day we're very proud of our forme
 *Philina English, former Postdoctoral Researcher*, now a Biologist with Fisheries and Oceans Canada  
 
 *Tithalia Lockett, former REU Student*, Tithalia is continuing her undergraduate degree at University of New Orleans and working in Dr. Kelly Boyle's lab
+
+<br>
+<br>
+<br>
+
+## Lab photo gallery
+<p float="left">
+  <img src="/images/sampling_MH.jpg" width="32%" />
+  <img src="/images/IMG_9267.jpg" width="32%" /> 
+  <img src="/images/camp_abaco_1.jpg" width="32%" />
+</p>
+<p float="left">
+  <img src="/images/steph_makeda.jpg" width="49%" />
+  <img src="/images/Steph_finella.JPG" width="49%" /> 
+</p>
+<p float="left">
+  <img src="/images/aa_IMG_9300.jpg" width="32%" />
+  <img src="/images/makeda_yanilla.JPG" width="32%" /> 
+  <img src="/images/b_IMG_3137.jpg" width="32%" />
+</p>
+<p float="left">
+  <img src="/images/steph_makeda_2.jpg" width="33%" />
+  <img src="/images/erin_makeda_abigail.jpg" width="65%" /> 
+</p>
  
