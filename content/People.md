@@ -68,6 +68,8 @@ Although we're sad not to work with them every day we're very proud of our forme
 
 *Abhi Mohratra, former STEM Prep Student*, is continuing their associates degree at Baton Rouge Community College
 
+*Makeda Serju, former Intern*, is finishing her degree at The University of The Bahamas
+
 
 
 
