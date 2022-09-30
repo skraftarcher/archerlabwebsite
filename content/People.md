@@ -29,7 +29,7 @@ Twitter: @Fin_ella1
 
 ### **Ariel Alonso, Graduate Student**  
 
-{{<imagewithtext img="/images/ariel1.jpg" width="330"text="Ariel completed her undergraduate degree in Biological Science at University of New Orleans where she was a research assistant in Dr. Kelly Boyle’s lab. There she worked on effects of fish calling behavior caused from boat noise using recordings from Dauphin Island, Alabama. She also worked in Dr. Erin Cox’s lab and she did field work in Florida collecting seagrass. She recently finished a non-thesis masters programat Tulane University in the Ecology and Evolutionary Biology department with Dr. Hank Bart Jr. as her advisor. They worked on 3D fish modeling from underwater videos using deep learning methods. Ariel was also a Graduate Intern at LUMCON in the Archer Benthic Ecology Lab working on comparing fish calling behavior between sponge reefs and rocky reefs in the Salish Sea in Canada. Ariel is now a graduate student at University of New Orleans working with Drs. Archer and Kelly Boyle. Aside from school and science, she is involved in many volunteer positions through Ducks Unlimited. she is a chapter volunteer, Area Greenwing Chairman for our chapter and the chairman for the Greenwing Youth Organization in the state of Louisiana. She also loves to drink coffee, play with my animals, watch movies, hunt and fish and anything to do with the outdoors!">}} 
+{{<imagewithtext img="/images/ariel1.jpg" width="330"text="Ariel completed her undergraduate degree in Biological Science at University of New Orleans where she was a research assistant in Dr. Kelly Boyle’s lab. There she worked on effects of fish calling behavior caused from boat noise using recordings from Dauphin Island, Alabama. She also worked in Dr. Erin Cox’s lab and she did field work in Florida collecting seagrass. She recently finished a non-thesis masters programat Tulane University in the Ecology and Evolutionary Biology department with Dr. Hank Bart Jr. as her advisor. They worked on 3D fish modeling from underwater videos using deep learning methods. Ariel was also a Graduate Intern at LUMCON in the Archer Benthic Ecology Lab working on comparing fish calling behavior between sponge reefs and rocky reefs in the Salish Sea in Canada. Ariel is now a graduate student at University of New Orleans working with Dr. Kelly Boyle and as an honorary member of the Archer Lab. Aside from school and science, she is involved in many volunteer positions through Ducks Unlimited. she is a chapter volunteer, Area Greenwing Chairman for our chapter and the chairman for the Greenwing Youth Organization in the state of Louisiana. She also loves to drink coffee, play with my animals, watch movies, hunt and fish and anything to do with the outdoors!">}} 
 
 Email: arielnalonso7 at gmail.com 
  
@@ -52,21 +52,24 @@ Email: arielnalonso7 at gmail.com
 <br>
 <br>
 
-### **Matthew Heyer, Undergraduate Researcher**  
-
-{{<imagewithtextright img="/images/Matthew_profile_pic.JPG" width="330" text="Matthew graduated with his Associate's Transfer Degree in Biological Studies as a Research Scholar with honors from BRCC in 2020. He is now continuing his studies at SELU and Majoring in Biochemistry with a focus in Microbiology/Mycology.He has worked with the LA Sponge Hunters for 3 years researching freshwater sponges in addition to acting as a research mentor for internship programs under Dr. Mary Miller. He has presented research findings on freshwater sponge identification at scientific conferences for the Association of Southeastern Biologists, LSU, and others over these past few years as he has helped to develop and improve freshwater sponge identification techniques for Scanning Electron Microscopy (SEM). After finishing his undergraduate studies he plans on acquiring a thesis-based Master's/PhD if accepted at University Madison-Wisconsin's graduate program. Presently, he is planning on attending an ecological survey this summer in Costa Rica under SELU's study abroad program, and is an active member in school organizations for undergrad biology students such as BUGS and involves himself in community projects like the Pearl River Clean Sweep. Outside of school/work he loves to watch and review films, kayaking, film photography, making music, and running tabletop roleplaying games.">}}  
-
-
-<br>
-<br>
-<br>
 
 ## Former lab members
 Although we're sad not to work with them every day we're very proud of our former lab members and the amazing things they're doing now!
 
+*Haley Crawford, former REU Student*, is continuing their undergraduate degree at FSU
+
 *Philina English, former Postdoctoral Researcher*, now a Biologist with Fisheries and Oceans Canada  
 
-*Tithalia Lockett, former REU Student*, Tithalia is continuing her undergraduate degree at University of New Orleans and working in Dr. Kelly Boyle's lab
+*Matthew Heyer, former Undergraduate Researcher*, is continuing his degree at Southeastern Louisiana University
+
+*Vance Hoff, former STEM Prep Student*, is continuing their undergraduate degree at LA Tech
+
+*Tithalia Lockett, former REU Student*, is continuing her undergraduate degree at University of New Orleans
+
+*Abhi Mohratra, former STEM Prep Student*, is continuing their associates degree at Baton Rouge Community College
+
+
+
 
 <br>
 <br>
@@ -91,4 +94,13 @@ Although we're sad not to work with them every day we're very proud of our forme
   <img src="/images/steph_makeda_2.jpg" width="33%" />
   <img src="/images/erin_makeda_abigail.jpg" width="65%" /> 
 </p>
- 
+<p float="left">
+  <img src="/images/AbbyHaleyTank.jpg" width="32%" />
+  <img src="/images/fia_jill_lab.jpg" width="32%" /> 
+  <img src="/images/YanilaField.jpg" width="32%" />
+</p>
+<p float="left">
+  <img src="/images/ryannstjoe.jpg" width="32%" />
+  <img src="/images/StephSnorkel.jpg" width="32%" /> 
+  <img src="/images/summer22group2.HEIC" width="32%" />
+</p>
