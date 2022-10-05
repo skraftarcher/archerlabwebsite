@@ -58,4 +58,4 @@ For questions or more information contact Dr. Stephanie Archer by email.
 
 **Review of applications will commence immediately and continue until the position is filled.**  
 
-{{<figure src="/images/summer2022group2.jpg" width="1000" align="float:center">}}
+{{<figure src="/images/summer22group2.jpg" width="1000" align="float:center">}}
