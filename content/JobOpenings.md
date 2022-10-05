@@ -46,7 +46,7 @@ The Benthic Ecology Lab at Louisiana Universities Marine Consortium [(LUMCON)](h
 </ul>  
 
 *Duration and Start Date*  
-This position is available beginning as early as January 1st, 2023 and is 1 year in duration with possible additional support depending upon funding and satisfactory performance.
+This position is available beginning as early as January 1st, 2023 and is 1 year in duration with the possibility of extension depending upon funding and satisfactory performance.
 
 *Location*  
 The position will be based at the DeFelice Marine Center in Cocodrie, LA.  
