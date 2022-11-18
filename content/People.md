@@ -62,7 +62,7 @@ Email: arielnalonso7 at gmail.com
 ## Former lab members
 Although we're sad not to work with them every day we're very proud of our former lab members and the amazing things they're doing now!
 
-*Haley Crawford, former REU Student*, is continuing their undergraduate degree at FSU
+*Haley Crawford, former REU Student*, is continuing their undergraduate degree at USF
 
 *Philina English, former Postdoctoral Researcher*, now a Biologist with Fisheries and Oceans Canada  
 
