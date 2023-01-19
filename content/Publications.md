@@ -6,6 +6,7 @@ title: "Publications"
 *Links to publications are provided. If you cannot freely access a publication DO NOT PAY. Instead, please email Stephanie at sarcher at lumcon.edu and she will send you a copy.*  
 
 `*` indicates an undergraduate coauthor  
+[Stoner, E. W., S. K. Archer, and C. A. Layman. 2022. Increased nutrient availability correlates with increased growth of the benthic jellyfish Cassiopea spp. Food Webs 31:e00231.](https://www.sciencedirect.com/science/article/abs/pii/S2352249622000131#:~:text=Our%20findings%20suggest%20that%20elevated,aurita)%20from%20temperate%20systems)
 
 [Archer, S. K., P. A. English, F. M. Campanino, and C. A. Layman. 2021. Sponges facilitate primary producers in a Bahamas seagrass system. Marine Biology 168:162. DOI: 10.1007/s00227-021-03977-x](https://link.springer.com/article/10.1007/s00227-021-03977-x)
 
