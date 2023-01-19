@@ -21,7 +21,7 @@ menu:
       url: /People/
       weight: 2
     - name: Lab Ethics
-      url: /LabEthics/
+      url: /LabEthics2/
       weight: 4
     - name: Research
       url: /Research/
