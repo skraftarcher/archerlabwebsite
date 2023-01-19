@@ -27,6 +27,21 @@ Twitter: @Fin_ella1
 
 <br>
 
+###**Allison Noble, Graduate Student**  
+Bio coming soon.  
+
+<br>
+
+###**Siyah Yongue, Graduate Student**  
+Bio coming soon.  
+
+<br> 
+
+###**Yanila Salas-Ortiz, Graduate Student**  
+Bio coming soon.  
+
+<br>  
+
 ### **Ariel Alonso, Graduate Student**  
 
 {{<imagewithtext img="/images/ariel1.jpg" width="330"text="Ariel completed her undergraduate degree in Biological Science at University of New Orleans where she was a research assistant in Dr. Kelly Boyle’s lab. There she worked on effects of fish calling behavior caused from boat noise using recordings from Dauphin Island, Alabama. She also worked in Dr. Erin Cox’s lab and she did field work in Florida collecting seagrass. She recently finished a non-thesis masters programat Tulane University in the Ecology and Evolutionary Biology department with Dr. Hank Bart Jr. as her advisor. They worked on 3D fish modeling from underwater videos using deep learning methods. Ariel was also a Graduate Intern at LUMCON in the Archer Benthic Ecology Lab working on comparing fish calling behavior between sponge reefs and rocky reefs in the Salish Sea in Canada. Ariel is now a graduate student at University of New Orleans working with Dr. Kelly Boyle and as an honorary member of the Archer Lab. Aside from school and science, she is involved in many volunteer positions through Ducks Unlimited. she is a chapter volunteer, Area Greenwing Chairman for our chapter and the chairman for the Greenwing Youth Organization in the state of Louisiana. She also loves to drink coffee, play with my animals, watch movies, hunt and fish and anything to do with the outdoors!">}} 
@@ -38,6 +53,11 @@ Email: arielnalonso7 at gmail.com
 ### **Abigial Host, Research Assistant**  
 
 {{<imagewithtextright img="/images/host_biophoto.JPG" width="330" text="Abigail completed her undergraduate degree in Biology at Boston College, with a minor in Environmental Studies. She first became interested in environmental field research and ocean conservation during a summer field ecology program at Pacuare Reserve in Costa Rica where she learned about the tropical rainforest and tracked nesting leatherback sea turtles. She is also passionate about environmental education, having worked as an Environmental Educator at a wetland preserve in Park City, UT and as an Environmental Education & Stewardship Field Intern on Oak Island in North Carolina. Abigail is currently a Research Technician at LUMCON in the Archer Benthic Ecology Lab where she will primarily assist on a project focused on developing new markets for invasive carp in Louisiana as she continues to gain research, work, and field experience. When she’s not working, you will most likely find Abigail outside, whether that be running, hiking, skiing, playing soccer, swimming, biking, or just enjoying nature. She enjoys drinking coffee, eating(!), listening to music, birding, playing with her dogs, exploring new and exciting places, and spending time with her family and friends.">}}
+
+<br>
+
+###**Kay Schlachter, Research Associate**
+Bio coming soon.
 
 <br>
 
