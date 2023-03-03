@@ -27,17 +27,17 @@ Twitter: @Fin_ella1
 
 <br>
 
-###**Allison Noble, Graduate Student**  
+### **Allison Noble, Graduate Student**  
 Bio coming soon.  
 
 <br>
 
-###**Siyah Yongue, Graduate Student**  
-Bio coming soon.  
+### **Siyah Yongue, Graduate Student**  
+{{<imagewithtext img="/images/SYongue.jpg" width="330"text="Siyah completed her undergraduate degree in Marine Sciences at the University of Florida. Throughout her time there she studied abroad in Belize, helped survey for the Santa Fe River Turtle project, and participated in the Undergraduate Coral Research Initiative funded by NSF. She was also a research assistant for the Benthic Ecology lab at the U.S. Geological Survey (USGS) Wetland and Aquatic Research Center. At USGS, she worked on a variety of projects regarding mangrove preservation, coral restoration, deep-sea trophic ecology, microchemistry connectivity for Red and Vermilion Snapper, and infaunal community analysis post-Deep Water Horizon Oil Spill. She was able to board NOAA’s Nancy Foster and the University of Southern Mississippi’s Point Sur research vessels, where she helped with processing sediment cores, collecting and processing CTD samples for eDNA and particulate organic matter studies, and imaging/quantifying the deep-sea community in the Gulf of Mexico. Siyah is now co-advised by Drs. Archer and Lavaud at LSU, where she is getting her Masters focusing on tracking the eastern oyster’s behavioral responses under predicted climate change conditions (i.e., low salinity and dissolved oxygen) in both laboratory and natural settings. Outside of science, she loves exploring new places, hiking, reading, trying new foods, setting up/maintaining aquariums, and spending time with family and friends!">}}  
 
 <br> 
 
-###**Yanila Salas-Ortiz, Graduate Student**  
+### **Yanila Salas-Ortiz, Graduate Student**  
 Bio coming soon.  
 
 <br>  
@@ -50,13 +50,8 @@ Email: arielnalonso7 at gmail.com
  
 <br>
 
-### **Abigial Host, Research Assistant**  
 
-{{<imagewithtextright img="/images/host_biophoto.JPG" width="330" text="Abigail completed her undergraduate degree in Biology at Boston College, with a minor in Environmental Studies. She first became interested in environmental field research and ocean conservation during a summer field ecology program at Pacuare Reserve in Costa Rica where she learned about the tropical rainforest and tracked nesting leatherback sea turtles. She is also passionate about environmental education, having worked as an Environmental Educator at a wetland preserve in Park City, UT and as an Environmental Education & Stewardship Field Intern on Oak Island in North Carolina. Abigail is currently a Research Technician at LUMCON in the Archer Benthic Ecology Lab where she will primarily assist on a project focused on developing new markets for invasive carp in Louisiana as she continues to gain research, work, and field experience. When she’s not working, you will most likely find Abigail outside, whether that be running, hiking, skiing, playing soccer, swimming, biking, or just enjoying nature. She enjoys drinking coffee, eating(!), listening to music, birding, playing with her dogs, exploring new and exciting places, and spending time with her family and friends.">}}
-
-<br>
-
-###**Kay Schlachter, Research Associate**
+### **Kay Schlachter, Research Associate**
 Bio coming soon.
 
 <br>
@@ -84,12 +79,14 @@ Although we're sad not to work with them every day we're very proud of our forme
 
 *Haley Crawford, former REU Student*, is continuing their undergraduate degree at USF
 
-*Philina English, former Postdoctoral Researcher*, now a Biologist with Fisheries and Oceans Canada  
+*Philina English, former Postdoctoral Researcher*, is now a Biologist with Fisheries and Oceans Canada  
 
 *Matthew Heyer, former Undergraduate Researcher*, is continuing his degree at Southeastern Louisiana University
 
 *Vance Hoff, former STEM Prep Student*, is continuing their undergraduate degree at LA Tech
 
+*Abigial Host, former Research Assistant*, is guiding tours in Seward, Alaska as she prepares for her next steps 
+  
 *Tithalia Lockett, former REU Student*, is continuing her undergraduate degree at University of New Orleans
 
 *Abhi Mohratra, former STEM Prep Student*, is continuing their associates degree at Baton Rouge Community College
