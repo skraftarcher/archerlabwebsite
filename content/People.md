@@ -51,8 +51,8 @@ Email: arielnalonso7 at gmail.com
 <br>
 
 
-### **Kay Schlachter, Research Associate**
-Bio coming soon.
+### **Kay Schlachter, Research Associate**  
+{{<imagewithtextright img="/images/kay.jpg" width="330" text="Kay is the current Research Associate in the Archer Lab. She graduated from the University of Virginia with a B.S. degree in Environmental Science in 2022. While at UVA she worked in Dr. Max Castorani’s coastal marine ecology lab and through the Virginia Coast Reserve LTER to study suspended algal dynamics in a seagrass meadow landscape. She then went on to study the phenology of arctic phytoplankton blooms and blue whale migrations through the University of Iceland. Now she is working on a number of exciting projects at LUMCON and beginning to apply for Ph.D. programs. When she isn’t at work, Kay enjoys crocheting, gardening, and doing as much yoga as she can before her arms give out.">}} 
 
 <br>
 
