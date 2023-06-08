@@ -4,7 +4,7 @@ description: "The people of the Archer Benthic Ecology Lab"
 header_image: '/banner_image2.jpg'
 ---
 
-{{<figure src="/images/IMG_9809.jpg" width="1000" align="float: center">}}
+{{<figure src="/images/people_banner.jpg" width="1000" align="float: center">}}
 
 <br>
 
@@ -38,7 +38,7 @@ Bio coming soon.
 <br> 
 
 ### **Yanila Salas-Ortiz, Graduate Student**  
-Bio coming soon.  
+{{<imagewithtextright img="/images/YanilaField.jpg" width="330" text="Originally from Puerto Rico, Yanila received her BS in Chemistry from University of New Orleans (UNO). During her bachelor’s she worked on multiple projects in materials and analytical chemistry. Yanila chose to continue her academic journey at UNO, a decision that led her to her current position as a PhD candidate specializing in environmental and analytical chemistry. Her relationship with the Archer group started as a collaboration for the field work/sampling campaign in Abaco Island, The Bahamas, to monitor the health of seagrass beds and their recovery after Hurricane Dorian. In addition to the field work, she analyzed the samples for heavy metals and persistent organic pollutants. Today, Yanila’s doctoral research, co-advised by Drs. Stephanie Archer and Phoebe Zito at UNO focuses on monitoring heavy metal concentrations in subtropical aquatic ecosystems. Despite her busy schedule, Yanila believes in maintaining a balanced lifestyle. Outside the lab, she loves to swim, watch movies and spend time with her loved ones.">}}  
 
 <br>  
 
