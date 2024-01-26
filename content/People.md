@@ -19,14 +19,6 @@ Email: sarcher at lumcon.edu
 
 <br>
 
-### **Finella Campanino, Graduate Student**  
-{{<imagewithtextright img="/images/fia crab proj.jpg" width="330" text="Finella completed her undergraduate at the State University of New York College at Oneonta where she worked on several projects. She did field work on Andros Island, The Bahamas to collect a comprehensive population survey for the Bahamas National Trust to help develop a management plan for the National Park dedicated to conserving the giant land crab (Crab Replenishment Reserve). In addition to field work, she tested the effects of curcumin on respiration in yeast cells in my undergraduate’s biochemistry laboratory and performed a computational clustering analysis to view age cohorts of the larval form of a North American insect species within a stream. She moved to Louisiana and is was a Research Technician at LUMCON in the Archer Benthic Ecology Lab, primarily working on oyster reef community ecology and Louisiana sponges. Finella is now co-advised by Drs. Archer and Megan La Peyre at LSU; she is getting her Masters working on biodiversity associated with oyster reefs. Outside of science, she loves to play volleyball, read, watch movies, and play board games with her friends!">}} 
-
-Email: fcampanino at lumcon.edu  
-Twitter: @Fin_ella1  
-
-<br>
-
 ### **Allison Noble, Graduate Student**  
 Bio coming soon.  
 
@@ -62,9 +54,9 @@ Email: arielnalonso7 at gmail.com
 
 <br>
 
-### **Tam Ta, Undergraduate Researcher**  
+### **Tam Ta, Guest Researcher**  
 
-{{<imagewithtextright img="/images/PXL_20210815_180937220_2.jpg" width="330" text="Tam is currently an undergrad at the University of Washington majoring in Environmental Science and Medical Laboratory Science. She started at LUMCON as an REU Intern where she examined fish calling behaviors in glass sponge reef ecosystems. Going forward, she will be working on a passive acoustic research project looking at fish calling behaviors and biodiversity in glass sponge reefs. Tam is also working as a Student Assistant in the Quantitative Conservation Lab at the University of Washington. She is currently working through data entry and camera trap processing for seabird monitoring in the Channel Islands National Park. When she is not working, you can find her hiking, embroidering, and drinking bubble tea.">}}
+{{<imagewithtextright img="/images/PXL_20210815_180937220_2.jpg" width="330" text="Tam is currently an undergrad at the University of Washington majoring in Environmental Science and Medical Laboratory Science. She started at LUMCON as an REU Intern where she examined fish calling behaviors in glass sponge reef ecosystems. Going forward, she will be working on a passive acoustic research project looking at fish calling behaviors and biodiversity in glass sponge reefs. Tam is also worked as a Student Assistant in the Quantitative Conservation Lab at the University of Washington. She is currently working through data entry and camera trap processing for seabird monitoring in the Channel Islands National Park. When she is not working, you can find her hiking, embroidering, and drinking bubble tea.">}}
 
 <br>
 <br>
@@ -77,6 +69,14 @@ Email: arielnalonso7 at gmail.com
 ## Former lab members
 Although we're sad not to work with them every day we're very proud of our former lab members and the amazing things they're doing now!
 
+*Finella Campanino, former MSc Student*, is now at University of Florida pursuing her PhD in Benthic Community Ecology
+
+*Samantha Schlegel, former REU Student*, is finishing up their undergraduate degree at University of Tampa
+
+*Mackenzie Plowman, former REU Student*, is finishing up their undergraduate degree at Shenandoah University
+
+*Mikel Vaughan-Coston, former REU Student*, is finishing up their undergraduate degree at University of Michigan
+
 *Haley Crawford, former REU Student*, is continuing their undergraduate degree at USF
 
 *Philina English, former Postdoctoral Researcher*, is now a Biologist with Fisheries and Oceans Canada  
@@ -85,13 +85,13 @@ Although we're sad not to work with them every day we're very proud of our forme
 
 *Vance Hoff, former STEM Prep Student*, is continuing their undergraduate degree at LA Tech
 
-*Abigial Host, former Research Assistant*, is guiding tours in Seward, Alaska as she prepares for her next steps 
+*Abigial Host, former Research Assistant*, is pursuing her MSc at University of Alaska, Fairbanks
   
 *Tithalia Lockett, former REU Student*, is continuing her undergraduate degree at University of New Orleans
 
 *Abhi Mohratra, former STEM Prep Student*, is continuing their associates degree at Baton Rouge Community College
 
-*Makeda Serju, former Intern*, is finishing her degree at The University of The Bahamas
+*Makeda Serju, former Intern*, has finished her degree at The University of The Bahamas and is continuing to develop her skills and knowledge base through internships and research opportunities
 
 
 
