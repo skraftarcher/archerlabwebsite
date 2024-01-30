@@ -94,8 +94,7 @@ Although we're sad not to work with them every day we're very proud of our forme
 
 *Samantha Schlegel, former REU Student*, is finishing up their undergraduate degree at University of Tampa
 
-*Makeda Serju, former Intern*, has finished her degree at The University of The Bahamas and is continuing to develop her skills and 
-knowledge base through internships and research opportunities
+*Makeda Serju, former Intern*, has finished her degree at The University of The Bahamas and is continuing to develop her skills and knowledge base through internships and research opportunities
 
 *Mackenzie Plowman, former REU Student*, is finishing up their undergraduate degree at Shenandoah University
 
