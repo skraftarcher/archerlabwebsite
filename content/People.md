@@ -74,13 +74,9 @@ Bio coming soon!
 ## Former lab members
 Although we're sad not to work with them every day we're very proud of our former lab members and the amazing things they're doing now!
 
+*Hallie Blondiau, former STEM Prep Student*, is finishing her undergraduate degree at University of Louisiana Lafayette
+
 *Finella Campanino, former MSc Student*, is now at University of Florida pursuing her PhD in Benthic Community Ecology
-
-*Samantha Schlegel, former REU Student*, is finishing up their undergraduate degree at University of Tampa
-
-*Mackenzie Plowman, former REU Student*, is finishing up their undergraduate degree at Shenandoah University
-
-*Mikel Vaughan-Coston, former REU Student*, is finishing up their undergraduate degree at University of Michigan
 
 *Haley Crawford, former REU Student*, is continuing their undergraduate degree at USF
 
@@ -96,9 +92,14 @@ Although we're sad not to work with them every day we're very proud of our forme
 
 *Abhi Mohratra, former STEM Prep Student*, is continuing their associates degree at Baton Rouge Community College
 
-*Makeda Serju, former Intern*, has finished her degree at The University of The Bahamas and is continuing to develop her skills and knowledge base through internships and research opportunities
+*Samantha Schlegel, former REU Student*, is finishing up their undergraduate degree at University of Tampa
 
+*Makeda Serju, former Intern*, has finished her degree at The University of The Bahamas and is continuing to develop her skills and 
+knowledge base through internships and research opportunities
 
+*Mackenzie Plowman, former REU Student*, is finishing up their undergraduate degree at Shenandoah University
+
+*Mikel Vaughan-Coston, former REU Student*, is finishing up their undergraduate degree at University of Michigan
 
 
 <br>
