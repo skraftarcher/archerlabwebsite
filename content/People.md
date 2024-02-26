@@ -49,7 +49,7 @@ Email: arielnalonso7 at gmail.com
 <br>
 
 ###**Granger Hanks, Research Assistant II**  
-Bio coming soon!
+{{<imagewithtextright img="/images/Grangerbio.jpg" width="330" text="Granger received his B.S. degree in biology in 2019 from Nicholl’s State University where he began research on deep-sea wood-fall communities as Dr. Craig McClain’s research technician. After working in the McClain lab for a year post graduation, he enrolled at the University of Louisiana at Lafayette (ULL) as a master’s student advised by Dr. McClain. His master’s research focused on experimentally disentangling the drivers of the species-area relationship in ephemeral habitat island communities to aid in the advancement of species-area research applications to conservation efforts. While at ULL, he contributed to studies on wood, sponge, and alligator food falls as well as biodiversity assessments of the Deep-Water Horizon wreck site. Currently, he helps to monitor oyster reef biodiversity and health in Louisiana’s coastal waters as a research assistant in the Archer Benthic Ecology Lab using both bioacoustics and more traditional sampling techniques. Outside of work Granger enjoys making custom jewelry and spending time outdoors.">}}
 
 <br>
 
