@@ -20,7 +20,7 @@ Email: sarcher at lumcon.edu
 <br>
 
 ### **Allison Noble, Graduate Student**  
-Bio coming soon.  
+{{<imagewithtextright img="/images/allison_oysters.png" width="330" text="Bio coming soon">}}  
 
 <br>
 
@@ -40,12 +40,6 @@ Bio coming soon.
 
 Email: arielnalonso7 at gmail.com 
  
-<br>
-
-
-### **Kay Schlachter, Research Associate**  
-{{<imagewithtextright img="/images/kay.jpg" width="330" text="Kay is the current Research Associate in the Archer Lab. She graduated from the University of Virginia with a B.S. degree in Environmental Science in 2022. While at UVA she worked in Dr. Max Castorani’s coastal marine ecology lab and through the Virginia Coast Reserve LTER to study suspended algal dynamics in a seagrass meadow landscape. She then went on to study the phenology of arctic phytoplankton blooms and blue whale migrations through the University of Iceland. Now she is working on a number of exciting projects at LUMCON and beginning to apply for Ph.D. programs. When she isn’t at work, Kay enjoys crocheting, gardening, and doing as much yoga as she can before her arms give out.">}} 
-
 <br>
 
 ###**Granger Hanks, Research Assistant II**  
@@ -74,6 +68,8 @@ Email: arielnalonso7 at gmail.com
 ## Former lab members
 Although we're sad not to work with them every day we're very proud of our former lab members and the amazing things they're doing now!
 
+*Kay Schlachter, former Research Associate*, is now at University of Florida persuing her PhD in Benthic Ecology
+
 *Hallie Blondiau, former STEM Prep Student*, is finishing her undergraduate degree at University of Louisiana Lafayette
 
 *Finella Campanino, former MSc Student*, is now at University of Florida pursuing her PhD in Benthic Community Ecology
@@ -92,7 +88,7 @@ Although we're sad not to work with them every day we're very proud of our forme
 
 *Abhi Mohratra, former STEM Prep Student*, is continuing their associates degree at Baton Rouge Community College
 
-*Samantha Schlegel, former REU Student*, is finishing up their undergraduate degree at University of Tampa
+*Samantha Schlegel, former REU Student*, recently finished up their undergraduate degree at University of Tampa and is now working in a Deep Sea Benthic Ecology Lab for the USGS in Gainsville. 
 
 *Makeda Serju, former Intern*, has finished her degree at The University of The Bahamas and is working as a Research Assistant with Perry Institute of Marine Science
 
