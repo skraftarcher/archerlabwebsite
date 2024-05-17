@@ -4,7 +4,7 @@ description: "The people of the Archer Benthic Ecology Lab"
 header_image: '/banner_image2.jpg'
 ---
 
-{{<figure src="/images/people_banner.jpg" width="1000" align="float: center">}}
+{{<figure src="/images/2024labgroup.PNG" width="1000" align="float: center">}}
 
 <br>
 
@@ -22,6 +22,13 @@ Email: sarcher at lumcon.edu
 ### **Allison Noble, Graduate Student**  
 {{<imagewithtextright img="/images/allison_oysters.png" width="330" text="Bio coming soon">}}  
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 ### **Siyah Yongue, Graduate Student**  
@@ -42,7 +49,7 @@ Email: arielnalonso7 at gmail.com
  
 <br>
 
-###**Granger Hanks, Research Assistant II**  
+### **Granger Hanks, Research Assistant II**  
 {{<imagewithtextright img="/images/Grangerbio.jpg" width="330" text="Granger received his B.S. degree in biology in 2019 from Nicholl’s State University where he began research on deep-sea wood-fall communities as Dr. Craig McClain’s research technician. After working in the McClain lab for a year post graduation, he enrolled at the University of Louisiana at Lafayette (ULL) as a master’s student advised by Dr. McClain. His master’s research focused on experimentally disentangling the drivers of the species-area relationship in ephemeral habitat island communities to aid in the advancement of species-area research applications to conservation efforts. While at ULL, he contributed to studies on wood, sponge, and alligator food falls as well as biodiversity assessments of the Deep-Water Horizon wreck site. Currently, he helps to monitor oyster reef biodiversity and health in Louisiana’s coastal waters as a research assistant in the Archer Benthic Ecology Lab using both bioacoustics and more traditional sampling techniques. Outside of work Granger enjoys making custom jewelry and spending time outdoors.">}}
 
 <br>
@@ -74,7 +81,7 @@ Although we're sad not to work with them every day we're very proud of our forme
 
 *Finella Campanino, former MSc Student*, is now at University of Florida pursuing her PhD in Benthic Community Ecology
 
-*Haley Crawford, former REU Student*, is continuing their undergraduate degree at USF
+*Haley Crawford, former REU Student*, recently finished their undergraduate degree at USF
 
 *Philina English, former Postdoctoral Researcher*, is now a Biologist with Fisheries and Oceans Canada  
 
@@ -103,6 +110,26 @@ Although we're sad not to work with them every day we're very proud of our forme
 
 ## Lab photo gallery
 <p float="left">
+  <img src="/images/grangerscar.png" width="32%" />
+  <img src="/images/people_banner.jpg" width="32%" /> 
+  <img src="/images/kaygrangermud.png" width="32%" />
+</p>
+<p float="left">
+  <img src="/images/kaygrangergrandisle.png" width="32%" />
+  <img src="/images/kaystephfield.png" width="32%" /> 
+  <img src="/images/crabtree.png" width="32%" />
+</p>
+<p float="left">
+  <img src="/images/kay_dule.png" width="32%" />
+  <img src="/images/fia_celebrate.png" width="32%" /> 
+  <img src="/images/phoebe_sample.png" width="32%" />
+</p>
+<p float="left">
+  <img src="/images/sam_present.png" width="32%" />
+  <img src="/images/mikel_present.png" width="32%" /> 
+  <img src="/images/mac_present.png" width="32%" />
+</p>
+<p float="left">
   <img src="/images/sampling_MH.jpg" width="32%" />
   <img src="/images/IMG_9267.jpg" width="32%" /> 
   <img src="/images/camp_abaco_1.jpg" width="32%" />
@@ -112,7 +139,7 @@ Although we're sad not to work with them every day we're very proud of our forme
   <img src="/images/Steph_finella.JPG" width="49%" /> 
 </p>
 <p float="left">
-  <img src="/images/aa_IMG_9300.jpg" width="32%" />
+  <img src="/images/spongeworkshop.png" width="32%" />
   <img src="/images/makeda_yanilla.JPG" width="32%" /> 
   <img src="/images/b_IMG_3137.jpg" width="32%" />
 </p>
