@@ -10,9 +10,8 @@ header_image: '/banner_image2.jpg'
 
 ### **Stephanie K. Archer, PI**     
 
-{{<imagewithtext img="/images/IMG_0103.jpg" width="330" text="Dr. Archer completed her PhD at North Carolina State University where she worked in the Layman Lab studying how sponges alter community composition and ecosystem function in tropical and subtropical nearshore marine ecosystems. She then moved on to work for Fisheries and Oceans Canada in multiple capacities. There she studied species interactions and ecosystem function of Glass Sponge Reefs and worked to develop efficient monitoring methods grounded in a strong understanding of the behavior and ecology of keystone species. She is now an Assistant Professor at LUMCON where she heads a lab focused on coastal Louisiana and Gulf of Mexico sponges, oyster reefs, and other biogenic habitats. Outside of work she has a healthy obsession with University of Georgia football (go Dawgs!), loves to cook and read, and enjoys gardening, wood working, kayaking, and generally being outside.">}}
+{{<imagewithtext img="/images/IMG_0103.jpg" width="330" text="Dr. Archer completed her Ph.D. at North Carolina State University where she worked in the Layman Lab studying how sponges alter community composition and ecosystem function in tropical and subtropical nearshore marine ecosystems. She then moved on to work for Fisheries and Oceans Canada in multiple capacities. There she studied species interactions and ecosystem function of Glass Sponge Reefs and worked to develop efficient monitoring methods grounded in a strong understanding of the behavior and ecology of keystone species. She is now an Assistant Professor at LUMCON where she heads a lab focused on coastal Louisiana and Gulf of Mexico sponges, oyster reefs, and other biogenic habitats. Outside of work she has a healthy obsession with University of Georgia football (go Dawgs!), loves to cook and read, and enjoys gardening, wood working, kayaking, and generally being outside.">}}
 
-Twitter: @ArcherEcology  
 Email: sarcher at lumcon.edu  
 [Google Scholar](https://scholar.google.com/citations?user=pSv8vDwAAAAJ&hl=en "Google Scholar")  
 [Research Gate](https://www.researchgate.net/profile/Stephanie_Archer3 "Research Gate")  
@@ -36,11 +35,6 @@ Email: sarcher at lumcon.edu
 
 <br> 
 
-### **Yanila Salas-Ortiz, Graduate Student**  
-{{<imagewithtextright img="/images/YanilaField.jpg" width="330" text="Originally from Puerto Rico, Yanila received her BS in Chemistry from University of New Orleans (UNO). During her bachelor’s she worked on multiple projects in materials and analytical chemistry. Yanila chose to continue her academic journey at UNO, a decision that led her to her current position as a PhD candidate specializing in environmental and analytical chemistry. Her relationship with the Archer group started as a collaboration for the field work/sampling campaign in Abaco Island, The Bahamas, to monitor the health of seagrass beds and their recovery after Hurricane Dorian. In addition to the field work, she analyzed the samples for heavy metals and persistent organic pollutants. Today, Yanila’s doctoral research, co-advised by Drs. Stephanie Archer and Phoebe Zito at UNO focuses on monitoring heavy metal concentrations in subtropical aquatic ecosystems. Despite her busy schedule, Yanila believes in maintaining a balanced lifestyle. Outside the lab, she loves to swim, watch movies and spend time with her loved ones.">}}  
-
-<br>  
-
 ### **Ariel Alonso, Graduate Student**  
 
 {{<imagewithtext img="/images/ariel1.jpg" width="330"text="Ariel completed her undergraduate degree in Biological Science at University of New Orleans where she was a research assistant in Dr. Kelly Boyle’s lab. There she worked on effects of fish calling behavior caused from boat noise using recordings from Dauphin Island, Alabama. She also worked in Dr. Erin Cox’s lab and she did field work in Florida collecting seagrass. She recently finished a non-thesis masters programat Tulane University in the Ecology and Evolutionary Biology department with Dr. Hank Bart Jr. as her advisor. They worked on 3D fish modeling from underwater videos using deep learning methods. Ariel was also a Graduate Intern at LUMCON in the Archer Benthic Ecology Lab working on comparing fish calling behavior between sponge reefs and rocky reefs in the Salish Sea in Canada. Ariel is now a graduate student at University of New Orleans working with Dr. Kelly Boyle and as an honorary member of the Archer Lab. Aside from school and science, she is involved in many volunteer positions through Ducks Unlimited. she is a chapter volunteer, Area Greenwing Chairman for our chapter and the chairman for the Greenwing Youth Organization in the state of Louisiana. She also loves to drink coffee, play with my animals, watch movies, hunt and fish and anything to do with the outdoors!">}} 
@@ -54,11 +48,9 @@ Email: arielnalonso7 at gmail.com
 
 <br>
 
-### **Grace Hancock, Collections Assistant**  
+### **Riley Garcia, Research Assistant I**  
 
-{{<imagewithtext img="/images/grace.jpg" width="330" text="Grace Hancock is currently the collections assistant for LUMCON’s Coastal Marine Biodiversity Collection. She is originally from Portland OR but received her bachelor's degree in Biology and Spanish from Kalamazoo College in June 2022 where she worked with Dr. Santiago Salinas in the Kalamazoo College Fish Lab. There, they studied the effects of temperature fluctuations on a species of estuarine fish that exhibit temperature-dependent sex determination. She also spent a period of time interning at the GEMM lab at the Hatfield Marine Science Center studying Blue whale migration. Both of these experiences encouraged her to pursue a career in marine biology and ignited her curiosity of marine fauna. When she isn't hanging out in the collections room, she enjoys anything that gets her outside, reading, sewing, and playing music with her family!">}}
-
-<br>
+Bio coming soon.  
 
 ### **Tam Ta, Guest Researcher**  
 
@@ -75,25 +67,33 @@ Email: arielnalonso7 at gmail.com
 ## Former lab members
 Although we're sad not to work with them every day we're very proud of our former lab members and the amazing things they're doing now!
 
-*Kay Schlachter, former Research Associate*, is now at University of Florida persuing her PhD in Benthic Ecology
-
 *Hallie Blondiau, former STEM Prep Student*, is finishing her undergraduate degree at University of Louisiana Lafayette
 
-*Finella Campanino, former MSc Student*, is now at University of Florida pursuing her PhD in Benthic Community Ecology
+*Finella Campanino, former MSc Student*, is now at University of Florida pursuing her Ph.D. in Benthic Community Ecology
 
 *Haley Crawford, former REU Student*, recently finished their undergraduate degree at USF
 
 *Philina English, former Postdoctoral Researcher*, is now a Biologist with Fisheries and Oceans Canada  
+
+*Grace Hancock, former Collections Assistant*, is now pursuing her Ph.D. at Virginia Institute of Marine Science  
 
 *Matthew Heyer, former Undergraduate Researcher*, is continuing his degree at Southeastern Louisiana University
 
 *Vance Hoff, former STEM Prep Student*, is continuing their undergraduate degree at LA Tech
 
 *Abigial Host, former Research Assistant*, is pursuing her MSc at University of Alaska, Fairbanks
-  
+
+*Vanessa Lima, former REU Student*, is continuing their undergraduate degree at Univeristy of Miami  
+
 *Tithalia Lockett, former REU Student*, is continuing her undergraduate degree at University of New Orleans
 
+*Lauren McDonald, former REU Student*, is continuing their  undergraduate degree at Iowa State University  
+
 *Abhi Mohratra, former STEM Prep Student*, is continuing their associates degree at Baton Rouge Community College
+
+*Yanila Salas-Ortiz, former Ph.D. Student*, is now a chemist with Eli Lilly in Puerto Rico.
+
+*Kay Schlachter, former Research Associate*, is now at University of Florida pursuing her Ph.D. in Benthic Ecology  
 
 *Samantha Schlegel, former REU Student*, recently finished up their undergraduate degree at University of Tampa and is now working in a Deep Sea Benthic Ecology Lab for the USGS in Gainsville. 
 
@@ -102,6 +102,8 @@ Although we're sad not to work with them every day we're very proud of our forme
 *Mackenzie Plowman, former REU Student*, is finishing up their undergraduate degree at Shenandoah University
 
 *Mikel Vaughan-Coston, former REU Student*, is finishing up their undergraduate degree at University of Michigan
+
+*Summer Zamora, former REU Student*, is finishing up their undergraduate degree at Jacksonville State University  
 
 
 <br>

@@ -6,7 +6,18 @@ title: "Publications"
 *Links to publications are provided. If you cannot freely access a publication DO NOT PAY. Instead, please email Stephanie at sarcher at lumcon.edu and she will send you a copy.*  
 
 `*` indicates an undergraduate coauthor  
-[Stoner, E. W., S. K. Archer, and C. A. Layman. 2022. Increased nutrient availability correlates with increased growth of the benthic jellyfish Cassiopea spp. Food Webs 31:e00231.](https://www.sciencedirect.com/science/article/abs/pii/S2352249622000131#:~:text=Our%20findings%20suggest%20that%20elevated,aurita)%20from%20temperate%20systems)
+
+[Dunham, A., J.C. Iacarella, K.L. Hunter, S.C. Davies, S. Dudas, K.P.S. Gale, E. Rubidge, and S.K. Archer. 2024. Conserving ecosystem integrity: ecological theory as a guide for marine protected area monitoring. Bulletin of the Ecological Society of America 0(0):e02175.](https://doi.org/10.1002/bes2.2175)  
+
+[Mouy, X., S.K. Archer, S. Dosso, S. Dudas, P. English, C. Foord, W. Halliday, F. Juanes, D. Lancaster, S. Van Parijs, D. Haggarty. 2024. Automatic Detection of unidentified fish sounds: A comparison of traditional machine learning with deep learning. Frontiers in Remote Sensing 5.](https://doi.org/10.3389/frsen.2024.1439995)  
+
+[Lavaud, R., S.K. Archer, M.K. La Peyre, F.M. Campanino, S.M. Casas, J.R. La Peyre. 2024. In-situ valve opening response of eastern oysters to estuarine conditions. Marine Biology 171:174.](https://doi.org/10.1007/s00227-024-04488-1)  
+
+[Dunham, A., J.C. Iacarella, K.L. Hunter, S.C. Davies, S. Dudas, K.P.S. Gale, E. Rubidge, and S.K. Archer. 2024. Conserving ecosystem integrity: ecological theory as a guide for marine protected area monitoring. Ecological Applications e3005.](https://doi.org/10.1002/eap.3005)  
+
+[Campanino, F.M., P.A. English, C.A. Layman, S.K. Archer. 2023. Sponge presence increases the diversity and abundance of fish and invertebrates in a subtropical seagrass bed. Estuaries and Coasts.](https://doi.org/10.1007/s12237-023-01186-x.)
+
+[Stoner, E. W., S. K. Archer, and C. A. Layman. 2022. Increased nutrient availability correlates with increased growth of the benthic jellyfish Cassiopea spp. Food Webs 31:e00231.](https://www.sciencedirect.com/science/article/abs/pii/S2352249622000131)
 
 [Archer, S. K., P. A. English, F. M. Campanino, and C. A. Layman. 2021. Sponges facilitate primary producers in a Bahamas seagrass system. Marine Biology 168:162. DOI: 10.1007/s00227-021-03977-x](https://link.springer.com/article/10.1007/s00227-021-03977-x)
 
