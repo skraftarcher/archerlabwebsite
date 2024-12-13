@@ -4,7 +4,7 @@ title: "Job Openings with the Archer Lab"
   
   
 <p>&nbsp;</p>  
-We are hiring one Research Assistant beginning as early as January 2024. The successful applicant will assist Dr. Archer on multiple projects focused on invasive species (Invasive carp) and the ecology of biogenic habitats (e.g., oyster reefs, seagrass beds, and sponge grounds). The successful applicant will join a growing lab that uses a wide variety of approaches (e.g., food web ecology, bioacoustics) to examine how habitat-forming species influence the world around them and how human activities influence the health and function of these habitats. The position will involve a combination of field, lab, and computer-based work. 
+We are hiring one Research Assistant beginning as early as January 2025. The successful applicant will assist Dr. Archer on multiple projects focused on invasive species (Invasive carp) and the ecology of biogenic habitats (e.g., oyster reefs, seagrass beds, and sponge grounds). The successful applicant will join a growing lab that uses a wide variety of approaches (e.g., food web ecology, bioacoustics) to examine how habitat-forming species influence the world around them and how human activities influence the health and function of these habitats. The position will involve a combination of field, lab, and computer-based work. 
 
 MINIMUM QUALIFICATIONS:  
 •	Comfortable working outdoors in and around water   
