@@ -6,6 +6,7 @@ title: "Publications"
 *Links to publications are provided. If you cannot freely access a publication DO NOT PAY. Instead, please email Stephanie at sarcher at lumcon.edu and she will send you a copy.*  
 
 `*` indicates an undergraduate coauthor  
+[Seghers, B*, SK Archer, A Host, A Bockus, A Stahl, and MJ Polito. 2025. Arithmetic normalization models	for	the effects of lipid on carbon stable isotope values in silver carp (<i>Hypophthalmichthys molitrix</i>) tissues.	Isotopes in Environmental & Health Studies.](https://doi.org/10.1080/10256016.2024.2442364)  
 
 [Dunham, A., J.C. Iacarella, K.L. Hunter, S.C. Davies, S. Dudas, K.P.S. Gale, E. Rubidge, and S.K. Archer. 2024. Conserving ecosystem integrity: ecological theory as a guide for marine protected area monitoring. Bulletin of the Ecological Society of America 0(0):e02175.](https://doi.org/10.1002/bes2.2175)  
 

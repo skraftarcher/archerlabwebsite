@@ -30,11 +30,6 @@ Email: sarcher at lumcon.edu
 <br>
 <br>
 
-### **Siyah Yongue, Graduate Student**  
-{{<imagewithtext img="/images/SYongue.jpg" width="330"text="Siyah completed her undergraduate degree in Marine Sciences at the University of Florida. Throughout her time there she studied abroad in Belize, helped survey for the Santa Fe River Turtle project, and participated in the Undergraduate Coral Research Initiative funded by NSF. She was also a research assistant for the Benthic Ecology lab at the U.S. Geological Survey (USGS) Wetland and Aquatic Research Center. At USGS, she worked on a variety of projects regarding mangrove preservation, coral restoration, deep-sea trophic ecology, microchemistry connectivity for Red and Vermilion Snapper, and infaunal community analysis post-Deep Water Horizon Oil Spill. She was able to board NOAA’s Nancy Foster and the University of Southern Mississippi’s Point Sur research vessels, where she helped with processing sediment cores, collecting and processing CTD samples for eDNA and particulate organic matter studies, and imaging/quantifying the deep-sea community in the Gulf of Mexico. Siyah is now co-advised by Drs. Archer and Lavaud at LSU, where she is getting her Masters focusing on tracking the eastern oyster’s behavioral responses under predicted climate change conditions (i.e., low salinity and dissolved oxygen) in both laboratory and natural settings. Outside of science, she loves exploring new places, hiking, reading, trying new foods, setting up/maintaining aquariums, and spending time with family and friends!">}}  
-
-<br> 
-
 ### **Ariel Alonso, Graduate Student**  
 
 {{<imagewithtext img="/images/ariel1.jpg" width="330"text="Ariel completed her undergraduate degree in Biological Science at University of New Orleans where she was a research assistant in Dr. Kelly Boyle’s lab. There she worked on effects of fish calling behavior caused from boat noise using recordings from Dauphin Island, Alabama. She also worked in Dr. Erin Cox’s lab and she did field work in Florida collecting seagrass. She recently finished a non-thesis masters programat Tulane University in the Ecology and Evolutionary Biology department with Dr. Hank Bart Jr. as her advisor. They worked on 3D fish modeling from underwater videos using deep learning methods. Ariel was also a Graduate Intern at LUMCON in the Archer Benthic Ecology Lab working on comparing fish calling behavior between sponge reefs and rocky reefs in the Salish Sea in Canada. Ariel is now a graduate student at University of New Orleans working with Dr. Kelly Boyle and as an honorary member of the Archer Lab. Aside from school and science, she is involved in many volunteer positions through Ducks Unlimited. she is a chapter volunteer, Area Greenwing Chairman for our chapter and the chairman for the Greenwing Youth Organization in the state of Louisiana. She also loves to drink coffee, play with my animals, watch movies, hunt and fish and anything to do with the outdoors!">}} 
@@ -43,14 +38,11 @@ Email: arielnalonso7 at gmail.com
  
 <br>
 
-### **Granger Hanks, Research Assistant II**  
-{{<imagewithtextright img="/images/Grangerbio.jpg" width="330" text="Granger received his B.S. degree in biology in 2019 from Nicholl’s State University where he began research on deep-sea wood-fall communities as Dr. Craig McClain’s research technician. After working in the McClain lab for a year post graduation, he enrolled at the University of Louisiana at Lafayette (ULL) as a master’s student advised by Dr. McClain. His master’s research focused on experimentally disentangling the drivers of the species-area relationship in ephemeral habitat island communities to aid in the advancement of species-area research applications to conservation efforts. While at ULL, he contributed to studies on wood, sponge, and alligator food falls as well as biodiversity assessments of the Deep-Water Horizon wreck site. Currently, he helps to monitor oyster reef biodiversity and health in Louisiana’s coastal waters as a research assistant in the Archer Benthic Ecology Lab using both bioacoustics and more traditional sampling techniques. Outside of work Granger enjoys making custom jewelry and spending time outdoors.">}}
-
-<br>
-
 ### **Riley Garcia, Research Assistant I**  
 
 Bio coming soon.  
+
+<br>
 
 ### **Tam Ta, Guest Researcher**  
 
@@ -77,9 +69,11 @@ Although we're sad not to work with them every day we're very proud of our forme
 
 *Grace Hancock, former Collections Assistant*, is now pursuing her Ph.D. at Virginia Institute of Marine Science  
 
+*Granger Hanks, former Research Assistant*, is now a Coastal Scientist at Coastal Estuary Services  
+
 *Matthew Heyer, former Undergraduate Researcher*, is continuing his degree at Southeastern Louisiana University
 
-*Vance Hoff, former STEM Prep Student*, is continuing their undergraduate degree at LA Tech
+*Vance Hoff, former STEM Prep Student*, is working at in animal Husbandry at the Shreveport Aquarium  
 
 *Abigial Host, former Research Assistant*, is pursuing her MSc at University of Alaska, Fairbanks
 
@@ -102,6 +96,8 @@ Although we're sad not to work with them every day we're very proud of our forme
 *Mackenzie Plowman, former REU Student*, is finishing up their undergraduate degree at Shenandoah University
 
 *Mikel Vaughan-Coston, former REU Student*, is finishing up their undergraduate degree at University of Michigan
+
+*Siyah Yongue, former Masters Student*, is currently working in the Reynolds lab at University of Florida.
 
 *Summer Zamora, former REU Student*, is finishing up their undergraduate degree at Jacksonville State University  
 
