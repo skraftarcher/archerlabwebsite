@@ -2,7 +2,7 @@
 title: "Lab Ethics"
 ---
   
-In this lab we will work to create opportunities for those who have traditionally been excluded from our field. We will do this in many ways, including but not limited to, prioritizing requests for funds to provide paid internships and research experiences for those who lack access and working with traditional knowledge holders to create or solidify pathways for their ways of knowing to be recognized and incorporated into ecological theory and ecosystem management. In order to create a space where these initiatives can thrive we adhere to the following principles: 
+In this lab we will work to create opportunities for those who have traditionally been excluded from our field. We will prioritize writing grants for funds to provide paid internships and research experiences for those who lack access. We will also work with traditional knowledge holders to create or solidify pathways for their ways of knowing to be recognized and incorporated into ecological theory and ecosystem management. In order to create a space where these initiatives can thrive we adhere to the following principles: 
 
 People come first, mental health is prerequisite for good science.   
 
